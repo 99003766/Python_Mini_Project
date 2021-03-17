@@ -8,9 +8,9 @@ Creating one Excel file with five Sheets, one sheet is the master sheet. Here in
 
 S No. | Requirments|    Discription    | Status 
 -------|---------|----------------|----------------
-HL1 |Creating 5 sheets in one Excel file | In 4 sheets Data of a person is present,One is the mastersheet | Implimented
-HL2 |Combining all the sheets in one sheet | All the datasheets are combined in one data sheet  | Implimented
-HL3 |By using PS Number we can retrive all the infomation of that person | By using the PS number of that person we can get all the information of that person in Mastershee| Implimented
+HL1 |Creating  | In 4 sheets Data of a person is present,One is the mastersheet | Implimented
+HL2 |Combining  | All the datasheets are combined in one data sheet  | Implimented
+HL3 |Searching | By using the PS number of that person we can get all the information of that person in Mastershee| Implimented
  
 
 
@@ -18,9 +18,13 @@ HL3 |By using PS Number we can retrive all the infomation of that person | By us
 
 S No. | Requirments|    Discription    | Status 
 -------|---------|----------------|----------------
-LL1 |Creating 10 columns and 40 rows in one excel sheet |In each sheet we have to creat 10 columns and 40 rows | Implimented
+LL1 |Creating Rows and Columns |In each sheet we have to creat 10 columns and 40 rows | Implimented
+LL2 |Searching  |Searching the data we need in all sheets  | Implimented
+LL2 |Output  |As per the requirment we have to display the output or store the output | Implimented
 
- 
+
+
+
 ## SWOT ANALYSIS
 
 # 4W&#39;s and 1&#39;H
