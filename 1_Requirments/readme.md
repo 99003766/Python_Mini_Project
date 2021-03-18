@@ -4,7 +4,7 @@ Creating one Excel file with five Sheets, one sheet is the master sheet. Here in
 
 
 
-## High Level Requirments 
+## High Level Requirements 
 
 S No. | Requirments|    Discription    | Status 
 -------|---------|----------------|----------------
@@ -14,7 +14,7 @@ HL3 |Searching | By using the PS number of that person we can get all the inform
  
 
 
-## Low Level Requirments 
+## Low Level Requirements 
 
 S No. | Requirments|    Discription    | Status 
 -------|---------|----------------|----------------
@@ -25,41 +25,3 @@ LL2 |Output  |As per the requirment we have to display the output or store the o
 
 
 
-## SWOT ANALYSIS
-
-# 4W&#39;s and 1&#39;H
-
-## Who:Everyone can use this calculator especially scientist and students.
-
-## What:Its a smart scientific calculator.
-
-## When:For fast,efficient and complex calculations.
-
-## Where:Calculations,Statistics(comparing the previous data with present data). 
-
-## How:Easy to user interface.
-# Detail requirements
-## High Level Requirements: 
-- **Arithmetic**
-- **Area calculator**
-- **Complex operation**
-- **Trigonometric calculation**
-- **Temperature conversion**
-- **Volume calculation**
-- **Discount calculation**
-- **Interest calculation**
-- **Length converter**
-- **Square root function**
-- **Matrix calculation**
-- **Factorial calculation**
-- **HCF**
-- **LCM**
-
-
-##  Low level Requirements:
-- **Addition, subtraction, multiplication, division modules**
-- **Length, breadth, height**
-- **Fahrenheit, Celsius temperature values**
-- **BODMAS**
-- **formulae for trignometric calculations**
-- **Allow Digits 0-9.**
