@@ -17,7 +17,6 @@ This program uses openpyxl library
 
 """
 import openpyxl
-from matplotlib import pyplot as plt
 from openpyxl import Workbook
 from openpyxl.chart import BarChart, Reference
 # I am  taking the empty workbook
