@@ -16,24 +16,6 @@ In master sheet we have to plot the bar graph of any row/column.
 This program uses openpyxl library 
 
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import openpyxl
 from matplotlib import pyplot as plt
 from openpyxl import Workbook
