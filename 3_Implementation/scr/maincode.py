@@ -1,3 +1,39 @@
+
+# Author: Jayasimha Reddy Ganapuram(99003766)
+# Contact:jayasimha.ganapuram@ltts.com
+# Date of creation: 22/3/2021
+# -------------------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------------------#
+"""
+This program performs the task of putting all the data of a particular candidate from 5 sheets
+to a master sheet provided the user gives the input of name , ps no or email id of that particular candidate.
+In master sheet we have to plot the bar graph of any row/column.
+
+"""
+# -------------------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------------------#
+"""
+This program uses openpyxl library 
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import openpyxl
 from matplotlib import pyplot as plt
 from openpyxl import Workbook
